@@ -1,0 +1,4 @@
+Backend\BlackjackGame.class
+Backend\Card.class
+Backend\BlackjackDealer.class
+Backend\BlackjackGameLogic.class
